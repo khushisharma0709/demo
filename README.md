@@ -1,2 +1,2 @@
 # demo
-demo for exploring git and github.
+demo for exploring git and github..
